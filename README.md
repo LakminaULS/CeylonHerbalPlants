@@ -1,4 +1,5 @@
 Ceylon Herbal Plants App
+
 This Android application provides a platform to explore and manage information about various Sri Lankan herbal plants. Users can view a list of herbal plants, access detailed information about each plant, and contribute by adding new plants to the list.
 
 Features
