@@ -8,18 +8,23 @@
         android:id="@+id/recycler_view_plants"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="8dp"
         android:clipToPadding="false"
-        android:scrollbars="vertical"/>
+        android:padding="8dp"
+        android:scrollbars="vertical" />
 
     <Button
         android:id="@+id/btn_add_plant"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:layout_margin="16dp"
-        android:text="Add Plant"/>
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="183dp"
+        android:layout_marginBottom="69dp"
+        android:text="Add Plant" />
 
     <TextView
         android:id="@+id/textView2"

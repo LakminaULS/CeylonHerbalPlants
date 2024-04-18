@@ -14,7 +14,7 @@
         <ImageView
             android:id="@+id/image_plant"
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="300dp"
             android:scaleType="centerCrop"
             android:src="@drawable/herb" />
 
@@ -24,8 +24,8 @@
         android:id="@+id/text_plant_name_detail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="center|left"
         android:text="Name"
-        android:gravity="center"
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -34,12 +34,12 @@
         android:id="@+id/text_scientific_name_detail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center|left"
         android:text="Scienctific Name"
-        android:gravity="center"
-        android:textSize="20sp"
-        android:textStyle="bold"
         android:textColor="@android:color/darker_gray"
-        android:layout_marginTop="5dp"/>
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/text_usage_detail"
