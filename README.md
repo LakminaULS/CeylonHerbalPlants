@@ -18,7 +18,8 @@ Add Plant Activity (AddPlantActivity): Provides a form for users to add a new pl
 
 Screenshots
 
-![image](https://github.com/LakminaULS/CeylonHerbalPlants/assets/91332457/33dbfed4-7873-43a1-b58d-6aaf06c90475)
+![image](https://github.com/LakminaULS/CeylonHerbalPlants/assets/91332457/8d03f270-dc82-43eb-b815-43ad0b65e5d5)
+
 
 
 
